@@ -1,0 +1,57 @@
+
+🔍 Fragmento 1:
+A continuación se presenta un flujograma con los pasos a seguir en el proceso de evaluación de transacciones de terrenos públicos por parte de la Junta de Planificación de Puerto Rico:
+
+1. **Inicio del proceso:**
+    - Presentación de solicitud de evaluación de transacción de terreno público.
+
+2. **Determinar la naturaleza de la transacción:**
+    - ¿Se trata de una urbanización o lotificación?
+        - Sí: Ir al paso 3.
+        - No: Fin del proceso.
+
+3. **Documentación requerida:**
+    - Revisar que la solicitud contenga toda la documentación necesaria conforme al Reglamento Conjunto vigente.
+        - ¿La documentación está completa?
+            - Sí: Ir al paso 4.
+            - No: Solicitar al solicitante que complete la documentación.
+
+4. **Evaluación de la propuesta:**
+    - Revisión de los planes de desarrollo y cumplimiento con las disposiciones generales.
+        - ¿Cumple con las disposiciones generales y normativas de urbanización?
+            - Sí: Ir al paso 5.
+            - No: Requerir ajustes o modificaciones.
+
+5. **Provisión para remanentes:**
+    - Verificar si se ha contemplado la capacidad adicional de infraestructura para posibles remanentes.
+        - ¿Se ha provisto capacidad adicional en la infraestructura?
+            - Sí: Continuar evaluación.
+            - No: Notificar al desarrollador para ajustes.
+
+6. **Instalaciones vecinales comerciales no calificadas:**
+    - ¿Se requieren instalaciones comerciales no calificadas?
+        - Sí: Evaluar conforme un Distrito C-L.
+        - No: Continuar evaluación.
+
+7. **Uso o disposición de terrenos lotificados:**
+    - Verificar si se cumplen los requisitos para la construcción o disposición de terrenos lotificados.
+        - ¿Se ha aprobado el Plano de Inscripción correspondiente?
+            - Sí: Autorizar construcción o disposición.
+            - No: Requerir aprobación del Plano de Inscripción.
+
+8. **Lotificaciones de hecho:**
+    - Evaluar solicitudes de segregaciones con base en condiciones específicas.
+        - ¿Cumple con los requisitos de lotificaciones de hecho?
+            - Sí: Considerar dispensa de ciertos requerimientos.
+            - No: Seguir procedimiento estándar.
+
+9. **Dispensa a arrendamientos de parte de una estructura o parcela de terreno:**
+    - Verificar si se trata de un arrendamiento que no constituye una lotificación.
+        - ¿Es un arrendamiento que no constituye una lotificación?
+            - Sí: Evaluar la dispensa correspondiente.
+            - No: No aplica.
+
+10. **Fin del proceso:**
+    - Emisión de resolución y notificación al solicitante.
+
+Es importante que en cada paso se documenten en detalle las decisiones tomadas y las razones detrás de las mismas, asegurando así la transparencia y consistencia en el proceso de evaluación de transacciones de terrenos públicos.

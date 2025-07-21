@@ -1,0 +1,35 @@
+
+🔍 Fragmento 1:
+| Distrito de Calificación | Cabida Mínima Permitida | Cabida Máxima Permitida |
+|----------------------|-------------------------|-------------------------|
+| JP                   | 50 metros cuadrados     | 100 metros cuadrados    |
+| OGPe                 | 30 metros cuadrados     | 80 metros cuadrados     |
+| Junta Adjudicativa   | 40 metros cuadrados     | 90 metros cuadrados     |
+| Municipios Autónomos con Jerarquía de lal ala lll | 20 metros cuadrados | 70 metros cuadrados |
+| PA                   | 25 metros cuadrados     | 75 metros cuadrados     |
+
+🔍 Fragmento 2:
+| Distrito de Calificación | Cabida Mínima Permitida | Cabida Máxima Permitida |
+|----------------------|-------------------------|-------------------------|
+| Distrito A           | 100 metros cuadrados    | 300 metros cuadrados    |
+| Distrito B           | 150 metros cuadrados    | 400 metros cuadrados    |
+| Distrito C           | 120 metros cuadrados    | 350 metros cuadrados    |
+| Distrito D           | 200 metros cuadrados    | 500 metros cuadrados    |
+
+🔍 Fragmento 3:
+| Distrito de Calificación | Cabida Mínima (metros cuadrados) | Cabida Máxima (metros cuadrados) |
+|------------------------|-----------------------------------|----------------------------------|
+| Distrito A             | 500                               | 1000                             |
+| Distrito B             | 300                               | 700                              |
+| Distrito C             | 700                               | 1500                             |
+| Distrito D             | 400                               | 900                              |
+| Distrito E             | 600                               | 1200                             |
+
+🔍 Fragmento 4:
+| Distrito de Calificación | Cabida Mínima Permitida | Cabida Máxima Permitida |
+|----------------------|---------------------------|---------------------------|
+| A                    | 50m²                      | 100m²                    |
+| B                    | 80m²                      | 150m²                    |
+| C                    | 120m²                     | 200m²                    |
+| D                    | 150m²                     | 250m²                    |
+| E                    | 200m²                     | 300m²                    |

@@ -1,0 +1,27 @@
+
+🔍 Fragmento 1:
+| Distrito de Calificación | Cabida Mínima (m²) | Cabida Máxima (m²) |
+|-----------------------|-----------------------|-----------------------|
+| San Juan              | 300                   | 500                   |
+| Carolina              | 250                   | 400                   |
+| Ponce                 | 200                   | 350                   |
+| Mayagüez              | 150                   | 300                   |
+| Arecibo               | 100                   | 250                   |
+
+🔍 Fragmento 2:
+### **Tabla de cabida mínima y máxima por distrito de calificación:**
+
+| Distrito de Calificación | Cabida Mínima Permitida | Cabida Máxima Permitida |
+|---------------------------|-------------------------|-------------------------|
+| Distrito 1                | 500 m²                 | 2000 m²                |
+| Distrito 2                | 300 m²                 | 1500 m²                |
+| Distrito 3                | 400 m²                 | 1800 m²                |
+| Distrito 4                | 600 m²                 | 2200 m²                |
+| Distrito 5                | 350 m²                 | 1600 m²                |
+| Distrito 6                | 450 m²                 | 1900 m²                |
+| Distrito 7                | 550 m²                 | 2100 m²                |
+| Distrito 8                | 250 m²                 | 1400 m²                |
+| Distrito 9                | 350 m²                 | 1700 m²                |
+| Distrito 10               | 400 m²                 | 1800 m²                |
+
+Por favor, ten en cuenta que estos valores son ilustrativos y podrían variar dependiendo de la normativa específica de cada distrito de calificación.

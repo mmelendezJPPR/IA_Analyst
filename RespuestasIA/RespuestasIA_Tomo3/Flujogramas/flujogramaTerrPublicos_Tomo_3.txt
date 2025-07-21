@@ -1,0 +1,33 @@
+
+🔍 Fragmento 1:
+Para la guía de referencia con flujograma sobre los trámites y requerimientos en el proceso de evaluación de transacciones de terrenos públicos por parte de la Junta de Planificación, sigue los pasos indicados a continuación:
+
+1. **Presentación de la solicitud de permiso:**
+   a. Presentación electrónica a través del SUl en el portal único de tramitación digital.
+   b. Asignación de un número único al trámite presentado.
+   c. Evaluación de la solicitud por la OGPe, los PA o los Municipios Autónomos según la delegación en la Ley 161-2009 y convenios de jerarquías.
+
+2. **Cumplimiento de requisitos:**
+   a. Requisitos generales según Regla 2.1.9 del Tomo ll.
+   b. Requisitos particulares detallados en el Capítulo para cada tipo de servicio.
+   c. No se aceptarán solicitudes incompletas.
+
+3. **Pago correspondiente:**
+   a. Realización del pago indicado por el Secretario Auxiliar de la OGPe mediante Orden Administrativa.
+
+4. **Examen y elevación del expediente:**
+   a. Examen del expediente digital por la Oficina de Permisos del municipio.
+   b. Elevación del expediente a la agencia correspondiente en un plazo de máximo diez (10) días.
+   c. Realización de Solicitud de Revisión Administrativa Expedita en caso de incumplimiento del plazo.
+
+5. **Solicitud según Ley Núm. 135:**
+   a. Agencia no podrá requerir información adicional luego de completada la solicitud.
+
+6. **Aclaraciones y suplementos de información:**
+   a. Posibilidad de pedir al solicitante aclaraciones, ampliaciones, correcciones, o suplementos de información durante la evaluación.
+
+7. **Validación de la solicitud:**
+   a. Determinación en un plazo máximo de cinco (5) días laborables desde la presentación de la solicitud.
+   b. Notificación de la validación al solicitante mediante el sistema electrónico.
+
+Este flujograma presenta los pasos principales para el proceso de evaluación de transacciones de terrenos públicos por parte de la Junta de Planificación, incluyendo la presentación de solicitudes, cumplimiento de requisitos, examen de expedientes y validación de solicitudes. Asegúrate de seguir las Reglas y el Reglamento Conjunto vigente para garantizar un proceso adecuado y eficiente.

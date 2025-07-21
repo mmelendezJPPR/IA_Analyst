@@ -1,0 +1,139 @@
+
+🔍 Fragmento 1:
+En base a la información proporcionada, se puede establecer un flujograma para los trámites y requerimientos para la evaluación de cambios de calificación directo por parte de la Junta de Planificación. A continuación se presenta un resumen de los pasos a seguir:
+
+Flujograma para Evaluación de Cambios de Calificación Directo por parte de la Junta de Planificación:
+
+1. **Inicio del Proceso**: Presentación del trámite de cambio de calificación directo por parte del solicitante.
+
+2. **Revisión Inicial**:
+   - La Junta de Planificación o Municipios Autónomos con Jerarquía de la l a la lll reciben la solicitud.
+   - Verificación de la documentación presentada.
+
+3. **Evaluación Técnica**:
+   - Revisión detallada del cambio de calificación solicitado.
+   - Análisis técnico del impacto y viabilidad del cambio.
+   
+4. **Emisión de Determinación**:
+   - La Junta de Planificación emite la determinación final respecto al cambio de calificación.
+   - En caso de Municipios Autónomos con Jerarquía de la l a la lll, ellos también emiten la determinación final.
+
+5. **Notificación al Solicitante**:
+   - Comunicación oficial al solicitante sobre la decisión tomada.
+
+6. **Cumplimiento y Seguimiento**:
+   - Monitoreo del cumplimiento de la determinación final por parte del solicitante.
+
+7. **Fin del Proceso**: Conclusión del trámite de cambio de calificación directo.
+
+Es importante tener en cuenta que este flujograma es un resumen general y que el proceso completo puede incluir más detalles y pasos específicos según lo establecido en el Reglamento Conjunto vigente. Se recomienda siempre consultar la normativa correspondiente y seguir las instrucciones y procedimientos detallados para garantizar un proceso adecuado y conforme a la legislación aplicable.
+
+🔍 Fragmento 2:
+Para establecer una guía de referencia con un flujograma para los trámites y requerimientos para la evaluación de cambios de calificación directo por parte de la Junta de Planificación, basados en el Reglamento Conjunto vigente, se pueden seguir los siguientes pasos:
+
+1. **Inicio del Proceso**: El inicio del proceso ocurre cuando se presenta una solicitud de cambios de calificación directo a la Junta de Planificación.
+
+2. **Revisión de Documentos**: La Junta de Planificación revisa la documentación presentada para verificar que cumple con todos los requisitos establecidos en el Reglamento Conjunto.
+
+3. **Evaluación de la Solicitud**: Se lleva a cabo una evaluación detallada de la solicitud para determinar si cumple con los criterios necesarios para ser considerada un cambio de calificación directo.
+
+4. **Notificación a Entidades Gubernamentales Concernidas**: En caso de que la solicitud requiera la notificación a otras entidades gubernamentales, se realiza este paso de acuerdo con lo dispuesto en el Reglamento, a través del Sistema Unificado de Información (SUI), si aplica.
+
+5. **Notificación a Municipios Autónomos**: En caso de que haya Municipios Autónomos con Jerarquía involucrados, se notifica de acuerdo con las disposiciones establecidas en el Reglamento.
+
+6. **Emisión de Resolución**: La Junta de Planificación emite una resolución con la decisión final sobre la solicitud de cambio de calificación directo.
+
+7. **Comunicación al Solicitante**: Se comunica la decisión de la Junta de Planificación al solicitante, indicando las acciones a seguir en caso de aprobación o denegación.
+
+8. **Revisión de Procedimientos de Transición**: En caso de que aplique la Cláusula de Transición según lo establecido en el Reglamento, se siguen los procedimientos correspondientes para las solicitudes de licencias y certificaciones.
+
+9. **Vigencia de Consultas de Ubicación y Transacciones de Terrenos Públicos**: Se manejan las vigencias de consultas de ubicación y transacciones de terrenos públicos según lo establecido en el Reglamento Conjunto.
+
+10. **Finalización del Proceso**: El proceso culmina una vez se ha comunicado la decisión final a todas las partes involucradas y se han seguido los procedimientos correspondientes.
+
+Este flujograma proporciona una guía general de los pasos a seguir para la evaluación de cambios de calificación directo por parte de la Junta de Planificación, asegurando el cumplimiento de las disposiciones establecidas en el Reglamento Conjunto vigente.
+
+🔍 Fragmento 3:
+Para poder establecer una guía de referencia con un flujograma sobre los trámites y requerimientos para la evaluación de cambios de calificación directa por parte de la Junta de Planificación, es importante tomar en consideración el Reglamento Conjunto vigente y los procedimientos mencionados en el documento proporcionado.
+
+Aquí te presento una propuesta de guía de referencia con un flujograma adaptado a los requerimientos mencionados en el documento:
+
+**Guía de referencia para la evaluación de cambios de calificación directa por la Junta de Planificación**
+
+1. **Inicio del proceso:** Se inicia el proceso cuando el solicitante presenta la solicitud ante la Junta de Planificación.
+
+2. **Revisión de la documentación:**
+   - Verificar que la solicitud contenga la Certificación de un Agrimensor Profesional.
+   - Confirmar que el Sistema de Coordenadas Planas Estatales ha sido cumplido.
+   - Revisar que la documentación cumpla con los estándares de georreferenciación y formato establecidos.
+
+3. **Evaluación técnica:**
+   - Verificar que se certifique el Nivel Horizontal (Horizontal Datum) según el sistema de coordenadas planas estatales.
+   - Validar la referencia de los monumentos de control establecidos en el proyecto.
+   - Evaluar la certificación del Nivel Vertical (Vertical Datum) en proyectos con elevaciones.
+   - Comprobar que la posición del polígono garantice un error estándar dentro de los límites establecidos.
+
+4. **Requerimientos adicionales:**
+   - Solicitar correcciones o información adicional en caso de incumplimientos con los requisitos.
+   - Establecer plazos para la presentación de los documentos corregidos.
+
+5. **Emisión de resolución:**
+   - Emitir una resolución de aprobación o denegación basada en la evaluación técnica y documentación presentada.
+   - Notificar al solicitante la decisión final tomada por la Junta de Planificación.
+
+6. **Finalización del proceso:** Una vez emitida la resolución, se considera el proceso de evaluación de cambios de calificación directa completado.
+
+Nota: En todos los pasos del proceso, se debe garantizar el cumplimiento de los requisitos establecidos en el Reglamento Conjunto vigente y la Ley 38-2017.
+
+Este flujograma proporciona una guía general sobre los pasos a seguir en el proceso de evaluación de cambios de calificación directa por la Junta de Planificación, basado en los requerimientos establecidos en el documento proporcionado. Se recomienda consultar el Reglamento Conjunto vigente y cualquier otra normativa relevante para asegurar el cumplimiento adecuado de los trámites y requerimientos necesarios.
+
+🔍 Fragmento 4:
+Flujograma para trámites y requerimientos para la evaluación de cambios de calificación directo por parte de la Junta de Planificación conforme al Reglamento Conjunto vigente:
+
+1. **Inicio del Proceso de Cambio de Calificación**
+    - Persona o entidad interesada en cambiar la calificación de un terreno inicia el proceso.
+
+2. **Determinación de Servicio o Trámite Requerido**
+    - ¿Qué tipo de cambio de calificación se desea realizar?
+        - Permiso
+        - Licencia
+        - Consulta de Ubicación
+        - Transacciones de Terrenos Públicos
+        - Revisiones Administrativas
+        - Querellas y Auditoría de Permisos
+
+3. **Notificación Correspondiente**
+    - Notificación por correo electrónico, correo ordinario o presencial según disponibilidad.
+    - Entidades responsables de la notificación:
+        - [ ] Junta de Planificación (JP)
+        - [ ] Junta Adjudicativa de la OGPe
+        - [ ] Municipios Autónomos con Jerarquía de la I a la III
+        - [ ] División de Revisiones Administrativas de la OGPe
+
+4. **Procedimiento Específico Según Tipo de Cambio de Calificación**
+    - **Permiso**
+        - Aprobación escrita para iniciar una acción, actividad o proyecto.
+    - **Licencia**
+        - Determinación final para dedicarse a la operación de ciertas ocupaciones.
+    - **Consultas de Ubicación**
+        - Evaluación y determinación sobre propuestos usos de terrenos no permitidos.
+    - **Transacciones de Terrenos Públicos**
+        - Procedimiento para adquisición, venta, permuta, entre organismos gubernamentales.
+    - **Revisiones Administrativas**
+        - Solicitud ante la División de Revisiones Administrativas por determinación adversa.
+    - **Querellas y Auditoría de Permisos**
+        - Procedimientos de reclamación por incumplimiento con la normativa vigente.
+
+5. **Seguimiento del Proceso**
+    - Seguimiento de los tiempos de respuesta y avances en el proceso de cambio de calificación.
+    - Comunicación con las entidades involucradas para obtener información sobre el estado del trámite.
+
+6. **Resultado Final**
+    - Emisión de la decisión final por parte de la Junta de Planificación.
+    - Notificación del resultado al solicitante.
+
+7. **Cierre del Proceso**
+    - Archivo de la documentación relevante.
+    - Comunicación de los pasos a seguir en caso de aprobación o rechazo del cambio de calificación.
+
+Este flujo puede ser adaptado y detallado según la complejidad de cada trámite específico y los requerimientos adicionales del Reglamento Conjunto vigente.

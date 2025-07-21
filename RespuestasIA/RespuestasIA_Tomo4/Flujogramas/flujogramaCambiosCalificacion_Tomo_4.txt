@@ -1,0 +1,32 @@
+
+🔍 Fragmento 1:
+### Guía de referencia para la evaluación de cambios de calificación directo por la Junta de Planificación
+
+#### Flujograma
+
+1. **Solicitud de cambio de calificación directo por la Junta de Planificación**
+   - El solicitante presenta la solicitud de cambio de calificación directamente a la Junta de Planificación.
+
+2. **Revisión de la solicitud por la Junta de Planificación**
+   - La Junta de Planificación revisa la solicitud para verificar que cumple con los requisitos y procedimientos establecidos en el Reglamento Conjunto vigente.
+
+3. **Análisis de la documentación**
+   - La Junta de Planificación analiza la documentación presentada en la solicitud para evaluar la viabilidad del cambio de calificación.
+
+4. **Emisión de respuesta por la Junta de Planificación**
+   - La Junta de Planificación emite una respuesta a la solicitud de cambio de calificación, indicando si es aprobada o denegada.
+
+5. **Notificación al solicitante**
+   - Se notifica al solicitante la decisión tomada por la Junta de Planificación respecto al cambio de calificación solicitado.
+
+6. **En caso de aprobación**
+   - Si el cambio de calificación es aprobado, se procede a la actualización de los registros correspondientes.
+
+7. **En caso de denegación**
+   - En caso de que el cambio de calificación sea denegado, se explican las razones de la negativa al solicitante.
+
+8. **Finalización del proceso**
+   - Se da por concluido el proceso de evaluación de cambios de calificación directo por la Junta de Planificación.
+
+### Nota:
+Este flujograma es una guía genérica y podrían existir procedimientos adicionales específicos dependiendo del caso concreto. Se recomienda siempre consultar directamente el Reglamento Conjunto vigente y seguir las indicaciones y requerimientos establecidos por la Junta de Planificación para una correcta evaluación de cambios de calificación.

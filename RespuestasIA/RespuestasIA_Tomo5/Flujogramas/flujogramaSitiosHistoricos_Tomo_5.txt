@@ -1,0 +1,63 @@
+
+🔍 Fragmento 1:
+Flujograma para la evaluación de Sitios Históricos por parte de la Junta de Planificación según el Reglamento Conjunto vigente:
+
+1. **Inicio del Proceso:**
+   - ¿Solicitud de evaluación de un Sitio Histórico?
+     - NO: Fin del proceso.
+     - SÍ: Continuar.
+
+2. **Revisión de Documentación:**
+   - Presentación de documentación completa por parte del solicitante.
+     - ¿Documentación completa?
+     - NO: Solicitar documentación faltante.
+     - SÍ: Continuar.
+
+3. **Evaluación Preliminar:**
+   - Revisión inicial de la documentación presentada.
+     - ¿Cumple con los requisitos mínimos?
+       - NO: Notificar al solicitante de los incumplimientos.
+       - SÍ: Continuar.
+
+4. **Solicitud de Informes Adicionales:**
+   - ¿Necesidad de informes técnicos adicionales?
+     - NO: Continuar evaluación.
+     - SÍ: Solicitar informes pertinentes.
+
+5. **Inspección del Sitio:**
+   - Realización de inspección en el Sitio Histórico por personal autorizado.
+     - ¿Informe de inspección favorable?
+       - NO: Evaluar acciones correctivas necesarias.
+       - SÍ: Continuar.
+
+6. **Evaluación Técnica:**
+   - Análisis detallado de la documentación, informes y resultados de la inspección.
+     - ¿Cumple con los criterios establecidos en el Reglamento?
+       - NO: Notificar al solicitante de las observaciones y requerimientos adicionales.
+       - SÍ: Proceder a la aprobación preliminar.
+
+7. **Aprobación Preliminar:**
+   - Emisión de la aprobación preliminar condicionada o incondicionada.
+     - ¿Condiciones adicionales para la aprobación final?
+       - SÍ: Comunicar las condiciones y requerimientos pendientes.
+       - NO: Continuar con la siguiente etapa.
+
+8. **Presentación de Planes Finales:**
+   - Recepción de los planos finales y documentación complementaria.
+     - ¿Cumple con las condiciones de la aprobación preliminar?
+       - NO: Solicitar ajustes necesarios.
+       - SÍ: Proceder a la revisión final.
+
+9. **Revisión Final:**
+   - Evaluación detallada de los planos y documentos finales.
+     - ¿Cumple con todos los requisitos y condiciones?
+       - SÍ: Emitir la aprobación final.
+       - NO: Notificar al solicitante de los ajustes finales requeridos.
+
+10. **Notificación de Aprobación Final:**
+   - Comunicación oficial de la aprobación final del Sitio Histórico.
+  
+11. **Seguimiento Post-Aprobación:**
+   - Supervisión y cumplimiento de las condiciones estipuladas en la aprobación final.
+
+Este flujograma tiene como objetivo brindar una visión general de los pasos a seguir en el proceso de evaluación de Sitios Históricos por parte de la Junta de Planificación, de acuerdo con el Reglamento Conjunto vigente. Cabe destacar que cada caso puede presentar particularidades que requieran ajustes en el proceso.

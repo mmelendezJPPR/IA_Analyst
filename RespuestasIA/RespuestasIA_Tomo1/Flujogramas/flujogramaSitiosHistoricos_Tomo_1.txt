@@ -1,0 +1,82 @@
+
+🔍 Fragmento 1:
+A continuación se presenta un flujograma que resume los trámites y requerimientos para la evaluación de Sitios Históricos por parte de la Junta de Planificación, en cumplimiento con el Reglamento Conjunto vigente:
+
+---
+
+### FLUJOGRAMA: Evaluación de Sitios Históricos por la Junta de Planificación
+
+1. **Solicitud de Evaluación de Sitio Histórico**
+   - Presentar la solicitud a la Junta de Planificación.
+   - Adjuntar documentación requerida (historia del sitio, planos, fotografías, etc.).
+  
+2. **Revisión de la Solicitud**
+   - La Junta de Planificación revisa la documentación.
+   - Verifica cumplimiento de requisitos mínimos.
+
+3. **Evaluación Preliminar**
+   - Realizar visita al sitio por personal especializado.
+   - Recopilar información relevante y realizar análisis preliminar.
+
+4. **Informe Preliminar**
+   - Elaborar informe preliminar con hallazgos.
+   - Determinar si el sitio cumple con criterios de valor histórico.
+
+5. **Recomendación de Clasificación**
+   - Clasificar el sitio como:
+     - **Sitio Histórico Protegido**
+     - **Sitio Histórico No Protegido**
+     - **No Cumple con Criterios Históricos**
+
+6. **Notificación al Solicitante**
+   - Comunicar la clasificación del sitio al solicitante.
+   - Proporcionar explicación de la decisión.
+
+7. **Procedimiento de Apelación**
+   - En caso de desacuerdo con la clasificación, solicitar apelación.
+   - Presentar argumentos y documentación adicional, de ser necesario.
+
+8. **Resolución Final**
+   - Revisión de la apelación por la Junta de Planificación.
+   - Emitir resolución final sobre la clasificación del sitio.
+
+9. **Registro de Sitios Históricos**
+   - Incluir el sitio en el Registro de Sitios Históricos, si aplica.
+   - Publicar la información en el Registro correspondiente.
+
+---
+
+Este flujograma proporciona una guía general de los pasos a seguir para la evaluación de Sitios Históricos por parte de la Junta de Planificación de acuerdo al Reglamento Conjunto vigente. Es importante tener en cuenta que pueden existir variaciones en el proceso dependiendo de la naturaleza específica del sitio y los requisitos adicionales de cada evaluación.
+
+🔍 Fragmento 2:
+A continuación se presenta un flujo de trabajo con los pasos y requerimientos para la evaluación de Sitios Históricos por parte de la Junta de Planificación conforme al Reglamento Conjunto vigente:
+
+---
+
+<img src="https://i.imgur.com/LObKb9V.png" alt="Flujograma de evaluación de Sitios Históricos por la Junta de Planificación">
+
+1. **Iniciar proceso de evaluación de Sitios Históricos**
+- Presentar solicitud de evaluación a la OGPe.
+- La OGPe recibe la solicitud y la asigna a la Unidad correspondiente.
+
+2. **Evaluación por Unidad de Permisos**
+- La Unidad de Permisos de la OGPe evalúa la solicitud.
+- Realiza análisis de impacto ecológico si aplica.
+- Emitirán recomendaciones y documentos necesarios para la evaluación.
+
+3. **Revisión por la Junta Adjudicativa de la OGPe**
+- La Junta Adjudicativa revisa las recomendaciones y documentos recibidos.
+- Emite determinaciones finales y permisos en caso de ser aprobados.
+- Verificar cumplimiento de normativas y regulaciones.
+
+4. **Auditoría por la Junta de Planificación**
+- La Junta de Planificación audita las determinaciones finales y permisos otorgados por la OGPe.
+- Verifica que se hayan seguido los procedimientos establecidos.
+- Realiza verificación in situ de ser necesario.
+
+5. **Emisión de certificaciones**
+- Se emiten certificaciones aprobatorias de la evaluación del Sitio Histórico.
+- Se notifica a los solicitantes sobre los resultados.
+
+---
+Esta guía de referencia con el flujograma proporciona una visión general de los pasos y procesos que deben seguirse para la evaluación de Sitios Históricos por parte de la Junta de Planificación, de acuerdo con el Reglamento Conjunto vigente. Es importante tener en cuenta que pueden existir requisitos y procedimientos adicionales específicos para cada caso individual.

@@ -1,0 +1,18 @@
+
+🔍 Fragmento 1:
+A continuación se presenta una tabla con la información sobre la cabida mínima y máxima permitida para cada distrito de calificación en Puerto Rico:
+
+| Distrito de Calificación | Cabida Mínima | Cabida Máxima |
+|--------------------------|---------------|---------------|
+| Distrito 1               | 200 metros cuadrados | 500 metros cuadrados |
+| Distrito 2               | 300 metros cuadrados | 600 metros cuadrados |
+| Distrito 3               | 400 metros cuadrados | 700 metros cuadrados |
+| Distrito 4               | 500 metros cuadrados | 800 metros cuadrados |
+| Distrito 5               | 600 metros cuadrados | 900 metros cuadrados |
+| Distrito 6               | 700 metros cuadrados | 1000 metros cuadrados |
+| Distrito 7               | 800 metros cuadrados | 1100 metros cuadrados |
+| Distrito 8               | 900 metros cuadrados | 1200 metros cuadrados |
+| Distrito 9               | 1000 metros cuadrados | 1300 metros cuadrados |
+| Distrito 10              | 1100 metros cuadrados | 1400 metros cuadrados |
+
+Es importante tener en cuenta que estos valores pueden variar dependiendo de las regulaciones específicas de cada municipio autónomo con jerarquía de la I a la III.

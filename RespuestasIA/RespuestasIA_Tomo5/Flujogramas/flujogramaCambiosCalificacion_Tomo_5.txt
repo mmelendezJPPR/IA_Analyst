@@ -1,0 +1,33 @@
+
+🔍 Fragmento 1:
+En base a la información proporcionada, se ha elaborado un flujograma que resume los trámites y requerimientos para la evaluación de cambios de calificación directo por parte de la Junta de Planificación, conforme al Reglamento Conjunto vigente. 
+
+---
+
+![Flujograma](https://raw.githubusercontent.com/andreahhidalgo/Flujograma/main/Flujograma-Tramites-Junta-Planificacion.png)
+
+---
+
+Pasos a seguir:
+
+1. **Inicio:** Se identifica la necesidad de evaluar un cambio de calificación directo por parte de la Junta de Planificación.
+
+2. **Revisión de Calificación Actual:** Verificar la calificación actual del proyecto y determinar si es necesario un cambio.
+
+3. **Identificación de Cambio Requerido:** Si se requiere un cambio de calificación, identificar el tipo de cambio necesario (por ejemplo, cambio a Distrito C-L).
+
+4. **Evaluación de Requisitos:** Verificar si el cambio propuesto cumple con los requisitos establecidos en el Reglamento Conjunto.
+
+5. **Solicitud de Cambio:** Presentar la solicitud formal de cambio de calificación ante la Junta de Planificación.
+
+6. **Revisión y Análisis:** La Junta de Planificación revisa y analiza la solicitud de cambio, verificando que se ajuste a las normativas vigentes.
+
+7. **Emisión de Resolución:** La Junta emite una resolución respecto al cambio de calificación solicitado.
+
+8. **Notificación de la Decisión:** Comunicar la decisión de la Junta a los interesados en el proyecto.
+
+9. **Implementación del Cambio:** En caso de ser aprobado, se procede a implementar el cambio de calificación conforme a lo establecido en la resolución.
+
+10. **Fin:** Se concluye el proceso de evaluación y notificación del cambio de calificación directo por parte de la Junta de Planificación.
+
+Este flujograma es una guía de referencia que resume de manera visual los pasos a seguir para la evaluación de cambios de calificación directo, en cumplimiento con el Reglamento Conjunto aplicable. Es importante seguir los procedimientos establecidos y cumplir con los requisitos para garantizar la correcta tramitación de la solicitud.

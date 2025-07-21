@@ -1,0 +1,106 @@
+
+🔍 Fragmento 1:
+Flujograma del proceso de evaluación de transacciones de terrenos públicos por parte de la Junta de Planificación:
+
+1. Inicio
+2. Solicitud de cambio de calificación o recalificación directa de solares y/o transacciones de terrenos públicos
+3. Evaluación por la Junta de Planificación (JP) o Municipios Autónomos con Jerarquía de la I a la III.
+   - ¿La solicitud cumple con los requisitos establecidos? [Sí] -> Paso 4
+                                                 [No] -> Fin
+4. Emisión de determinación final por parte de la JP o Municipios Autónomos con Jerarquía de la I a la III.
+5. Fiscalización del cumplimiento de la determinación final por parte de la JP.
+6. Fin
+
+Nota: El proceso puede variar ligeramente dependiendo de la complejidad y particularidades de cada caso.
+
+🔍 Fragmento 2:
+Flujograma para el proceso de evaluación de transacciones de terrenos públicos por parte de la Junta de Planificación:
+
+1. Inicia el proceso de transacción de terreno público.
+2. Presenta la solicitud a través del Sistema Unificado de Información (SUI).
+3. El SUI notifica a las Entidades Gubernamentales Concernidas y Municipio Autónomo correspondiente.
+4. Las Entidades Gubernamentales Concernidas y Municipio Autónomo tienen acceso a la información en el SUI.
+5. La solicitud es evaluada por la Junta de Planificación.
+6. En caso de violación a la ley o reglamento, se procede según dispone la Ley 161-2009 y el Reglamento vigente.
+7. Se emite una notificación y referido a las Entidades Gubernamentales Concernidas y Municipio Autónomo correspondiente.
+8. Si la solicitud es una consulta de ubicación o transacción de terreno público vigente según Ley 142-2012:
+   a. Para consultas de ubicación privadas: la vigencia es de 2 años.
+   b. Para consultas de ubicación o transacciones públicas: la vigencia es de 4 años.
+9. En caso de solicitudes de licencias y certificaciones presentadas antes de la vigencia del Reglamento, se culminarán en la Entidad Gubernamental correspondiente.
+10. Para solicitudes presentadas después de la vigencia del Reglamento, se establece un proceso de transición por el Secretario Auxiliar de la OGPe.
+
+Es importante recordar que en todo momento se deben cumplir con las disposiciones de la Ley de Procedimiento Administrativo Uniforme (Ley 38-2017) y cualquier otra normativa aplicable.
+
+🔍 Fragmento 3:
+\[
+\text{Flujograma para Evaluación de Transacciones de Terrenos Públicos por la Junta de Planificación}
+\]
+
+\[
+\begin{array}{|c|c|}
+\hline
+\text{Iniciar Solicitud de Evaluación} & \text{¿Requiere creación de nuevas parcelas, medidas agrarias, cambios en topografía, infraestructura, etc.?} \\
+\hline
+\text{Sí} & \text{Georeferenciar al Sistema de Coordenadas del Gobierno de PR y obtener Certificación de Agrimensor Profesional} \\
+\hline
+\text{No} & \text{Continuar con el proceso de evaluación estándar} \\
+\hline
+\text{Certificación de Agrimensor Profesional} & \text{Cumplir con requisitos de certificación (Nivel Horizontal, Equipos, Monumentos, Nivel Vertical, etc.)} \\
+\hline
+\text{Solicitud Aprobada} & \text{Presentar Archivo en formato DXF y georreferenciado según especificaciones de JP} \\
+\hline
+\text{Archivo Correcto} & \text{Continuar con el proceso de evaluación} \\
+\hline
+\text{Archivo Incorrecto} & \text{Corregir y volver a presentar el Archivo} \\
+\hline
+\text{Fin del Proceso} &  \\
+\hline
+\end{array}
+\] 
+
+Este flujograma resume los pasos a seguir al solicitar una evaluación de transacciones de terrenos públicos a la Junta de Planificación, específicamente cuando se requiere georeferenciar al Sistema de Coordenadas del Gobierno de Puerto Rico. Los pasos incluyen obtener la certificación de un Agrimensor Profesional, cumplir con los requisitos de certificación, presentar el archivo en formato adecuado según las especificaciones de JP y seguir el proceso de evaluación correspondiente.
+
+🔍 Fragmento 4:
+**Guía de referencia para evaluación de transacciones de terrenos públicos por la Junta de Planificación:**
+
+1. **Iniciar Proceso de Evaluación de Transacciones de Terrenos Públicos**
+
+2. **Determinar si la Transacción requiere Autorización por parte de la JP**
+    - *Sí:* Continuar al paso 3
+    - *No:* Fin del Proceso
+
+3. **Solicitud de Evaluación de Transacción de Terrenos Públicos ante la JP**
+    - Llenar y presentar formulario de solicitud según lo establecido por el Reglamento Conjunto 2020
+
+4. **Verificación de Documentación Requerida**
+    - Asegurarse de que la documentación necesaria está adjunta a la solicitud
+
+5. **Revisión Inicial de la Solicitud por parte de la JP**
+    - Confirmar que la solicitud cumple con los requisitos mínimos establecidos
+
+6. **Asignación de Número de Expediente**
+    - Una vez verificada la documentación, se asigna un número de expediente a la solicitud
+
+7. **Notificación al Solicitante**
+    - Notificar al solicitante sobre la asignación del número de expediente y el inicio del proceso de evaluación
+    - Notificación puede ser por correo electrónico, correo ordinario o presencial según lo establecido en el Reglamento
+
+8. **Evaluación Detallada de la Transacción de Terrenos Públicos**
+    - Revisión minuciosa de la propuesta de transacción conforme a los criterios establecidos en el Reglamento Conjunto 2020
+
+9. **Análisis de Factibilidad y Conformidad**
+    - Verificar que la transacción cumple con las normativas legales y reglamentarias aplicables
+
+10. **Emisión de Determinación Final**
+    - Emitir una determinación final sobre la transacción evaluada
+    - Notificar a todas las partes involucradas sobre la decisión tomada
+
+11. **Consideración de Recursos o Apelaciones**
+    - En caso de desacuerdo con la determinación final, las partes pueden presentar recursos o apelaciones según lo establecido en el Reglamento
+
+12. **Finalización del Proceso de Evaluación de Transacciones de Terrenos Públicos**
+    - Conclusión del proceso de evaluación con la emisión de la decisión final de la JP
+
+**Nota:**
+- El proceso de evaluación puede variar dependiendo de la complejidad de la transacción y los requerimientos específicos establecidos en el Reglamento Conjunto 2020.
+- Es importante seguir los procedimientos y requerimientos detalladamente para garantizar una evaluación adecuada y oportuna de las transacciones de terrenos públicos.

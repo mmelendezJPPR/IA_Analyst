@@ -1,0 +1,72 @@
+
+🔍 Fragmento 1:
+Guía de referencia con flujograma: Evaluación de transacciones de terrenos públicos por la Junta de Planificación.
+
+1. **Inicio del proceso de evaluación de transacciones de terrenos públicos por la Junta de Planificación**
+   - Presentación de la solicitud de transacción de terreno público.
+
+2. **Revisión preliminar de la solicitud**
+   - ¿La solicitud cumple con todos los requisitos establecidos por la Junta de Planificación?
+     - **Sí:** Continuar con la evaluación.
+     - **No:** Requerir al solicitante completar la documentación faltante.
+
+3. **Evaluación técnica de la propuesta**
+   - Revisión detallada de la documentación presentada.
+   - Análisis de impacto ambiental y urbanístico.
+   - Evaluación de la viabilidad y legalidad de la transacción.
+
+4. **Emisión de recomendaciones**
+   - ¿La transacción de terreno público es favorable según la evaluación técnica?
+     - **Sí:** Emitir recomendaciones para la aprobación.
+     - **No:** Informar al solicitante de los motivos de la no aprobación y sugerir modificaciones.
+
+5. **Proceso de aprobación**
+   - Presentación de las recomendaciones ante la Junta de Planificación.
+   - Revisión y discusión de las recomendaciones.
+   - Aprobación o rechazo de la transacción de terreno público.
+
+6. **Notificación al solicitante**
+   - Comunicación de la decisión de la Junta de Planificación al solicitante.
+   - En caso de aprobación, instrucciones para finalizar la transacción.
+
+7. **Registro y seguimiento**
+   - Archivo de la documentación relacionada con la transacción aprobada.
+   - Seguimiento del desarrollo de la transacción de terreno público.
+
+8. **Fin del proceso de evaluación de transacciones de terrenos públicos**
+   - El proceso se da por concluido una vez se haya comunicado la decisión final al solicitante y se haya completado la transacción.
+
+Es importante tener en cuenta que este es un resumen general y que el proceso real puede variar según las circunstancias específicas de cada transacción de terreno público.
+
+🔍 Fragmento 2:
+Flujograma para el proceso de evaluación de transacciones de terrenos públicos por la Junta de Planificación:
+
+1. Inicio del proceso de evaluación de transacciones de terrenos públicos
+   - Presentación de solicitud ante la Oficina de Gerencia de Permisos (OGPe) de la Junta de Planificación
+
+2. Evaluación de la solicitud por las Unidades de Permisos de la OGPe
+   - Revisión de la documentación presentada
+   - Emisión de recomendaciones
+
+3. Evaluación por la Junta Adjudicativa de la OGPe
+   - Análisis detallado de la solicitud
+   - Emisión de determinaciones finales y/o permisos
+
+4. Notificación al Centro para la Coordinación de Excavaciones y Demoliciones (si aplica)
+   - Procesamiento de la notificación a través de la OGPe como centro de presentación
+
+5. Consideración de recomendaciones del DRNA para terrenos ecológicamente susceptibles o vulnerables
+
+6. Formalización de acuerdos interagenciales para expedir certificaciones, licencias o documentos
+   - En caso de ser requeridos por otras agencias o entidades gubernamentales
+
+7. Auditar determinaciones finales y permisos otorgados por la OGPe por parte de la Junta de Planificación
+   - Verificación de cumplimiento de la normativa vigente
+
+8. Emisión de certificaciones, licencias o permisos para desarrollar u operar negocios en Puerto Rico
+   - En cumplimiento con los trámites previamente evaluados
+
+Nota:
+- Durante todo el proceso, se pueden realizar consultas de variación en uso, construcción y ubicación, incluyendo mejoras públicas, proyectos de impacto regional o suprarregional.
+- La organización administrativa de la OGPe está conformada por distintas unidades de permisos con responsabilidades específicas.
+- Para cualquier otra división, unidad o componente operacional necesaria, la OGPe puede establecerlos de acuerdo a la Ley.

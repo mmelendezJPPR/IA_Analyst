@@ -1,0 +1,34 @@
+
+🔍 Fragmento 1:
+**Flujograma para el proceso de evaluación de transacciones de terrenos públicos por la Junta de Planificación**
+
+1. Inicia el proceso de solicitud para evaluar una transacción de terreno público.
+      
+2. Se verifica que la solicitud esté completa y cumpla con todos los requisitos establecidos por el Reglamento Conjunto vigente.
+   
+3. Si la solicitud está incompleta o no cumple con los requisitos, se devuelve al solicitante para que la corrija.
+
+4. Si la solicitud está completa y cumple con los requisitos, se procede a evaluarla.
+
+5. La Junta de Planificación realiza un análisis técnico y jurídico de la solicitud.
+
+6. Se emite un informe técnico y jurídico con los resultados de la evaluación.
+
+7. Si la solicitud cumple con los criterios y requisitos establecidos, se aprueba la transacción de terreno público.
+
+8. Se emite la autorización correspondiente para la transacción.
+
+9. Si la solicitud no cumple con los requisitos o criterios establecidos, se deniega la transacción de terreno público.
+
+10. Se notifica al solicitante la decisión tomada.
+
+11. En caso de denegación, el solicitante puede apelar la decisión ante la Junta de Planificación.
+
+12. Si se apela la decisión, se inicia un proceso de revisión adicional.
+
+13. La Junta de Planificación revisa la apelación y emite una decisión final.
+
+14. Se notifica al solicitante la decisión final tomada en la apelación.
+
+15. Fin del proceso de evaluación de transacciones de terrenos públicos.
+
